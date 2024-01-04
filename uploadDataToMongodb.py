@@ -5,7 +5,6 @@ import os
 from dotenv import load_dotenv
 import pandas as pd
 from pymongo import MongoClient
-from google.cloud import bigquery
 
 # Initialize variables
 read_tickets = None
