@@ -27,3 +27,9 @@ In this repository there are 2 scripts.
 
 
 
+# Purpose of Repository
+ - Learning and enhancing knowledge for myself or anyone wanting to grow their knowledge in real-world Data Analysis, and building the Software for implementation
+ - Showing the process of Data from one platform Like Zendesk into a csv file
+ - Scripting/Automation in uploading to a database like MongoDB
+ - Connecting the database with BigQuery and using pipelines like StitchData
+ - Connecting a BI platform to BigQuery to run reports and different types of Charts for a customer report team to get a better understanding of their customer support service, and may help to improve on handling support tickets
